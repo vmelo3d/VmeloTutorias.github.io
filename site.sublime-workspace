@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"cate",
+				"categoria"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"ar",
+				"art"
+			],
+			[
+				"Art",
+				"artigo"
+			],
+			[
+				"arti",
+				"artigos"
+			],
+			[
+				"h",
+				"hora"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"con",
+				"consult"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"res",
+				"respop"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"c",
+				"cincocent"
+			],
+			[
+				"in",
+				"int5cent"
+			],
+			[
+				"to",
+				"total5cent"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ce",
+				"cem"
+			],
+			[
+				"int",
+				"int5"
+			],
+			[
+				"tot",
+				"total5"
+			],
+			[
+				"senh",
+				"senha"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"n",
+				"numero"
+			],
+			[
+				"en",
+				"encontra"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tran",
+				"transition-duration"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"qu",
+				"quote"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"bu",
+				"buscasegura"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"user",
+				"useres"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"id",
+				"idfo"
+			],
+			[
+				"catg",
+				"categoria"
+			],
+			[
+				"a",
+				"align	Attr"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"ta",
+				"tamanho"
+			],
+			[
+				"cada",
+				"cadastrar"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"sei",
+				"size	Attr"
+			],
+			[
+				"OP",
+				"OPTION	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"senha",
+				"senha"
+			],
+			[
+				"cad",
+				"Cadastrar"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"mysql_",
+				"mysql_query"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"des",
+				"descricao"
+			],
+			[
+				"ad",
+				"adicionar"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"mysq",
+				"mysql_error"
+			],
+			[
+				"mysql_Re",
+				"mysql_real_escape_string"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 1348,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "painel/painel.php",
+			"settings":
+			{
+				"buffer_size": 1604,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 3044,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "categ.php",
+			"settings":
+			{
+				"buffer_size": 1740,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "post.php",
+			"settings":
+			{
+				"buffer_size": 1668,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "busca.php",
+			"settings":
+			{
+				"buffer_size": 1755,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/fun.php",
+			"settings":
+			{
+				"buffer_size": 1197,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/vmelo",
+		"/C/xampp/htdocs/vmelo/painel"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/vmelo/painel/edit_post.php",
+		"/C/xampp/htdocs/vmelo/painel/add_post.php",
+		"/C/xampp/htdocs/vmelo/painel/delete.php",
+		"/C/xampp/htdocs/vmelo/painel/login.php",
+		"/C/xampp/htdocs/vmelo/js/script.js",
+		"/C/xampp/htdocs/vmelo/videos.php",
+		"/C/xampp/htdocs/vmelo/artigos.php",
+		"/C/xampp/htdocs/vmelo/contato.php",
+		"/C/xampp/htdocs/vmelo/post.php",
+		"/C/xampp/htdocs/vmelo/config/config.php",
+		"/C/xampp/htdocs/vmelo/js/script.js]",
+		"/C/Users/vmelo/Desktop/Projetos/CountMoney/index.html",
+		"/C/Users/vmelo/Desktop/Projetos/CountMoney/css/style.css",
+		"/C/Users/vmelo/Desktop/Projetos/CountMoney/js/script.js",
+		"/C/xampp/htdocs/qpizza/js/script.js",
+		"/C/xampp/htdocs/qpizza/login.php",
+		"/C/xampp/htdocs/qpizza/config/fun.php",
+		"/C/xampp/htdocs/qpizza/config/config.php",
+		"/C/xampp/htdocs/qpizza/css/style.css",
+		"/C/xampp/htdocs/qpizza/include/header.php",
+		"/C/xampp/htdocs/qpizza/index.php",
+		"/C/xampp/htdocs/qpizza/v_login.php",
+		"/C/xampp/htdocs/qpizza/v_cadastro.php",
+		"/C/xampp/htdocs/qpizza/cadastro.php",
+		"/C/xampp/htdocs/sistema de login/login.php",
+		"/C/xampp/htdocs/sistema de login/css/style.css",
+		"/C/xampp/htdocs/sistema de login/painel.php",
+		"/C/xampp/htdocs/sistema de login/config/config.php",
+		"/C/xampp/htdocs/OcktoCloud/config/fun.php",
+		"/C/xampp/htdocs/vmelocloud/config/fun.php",
+		"/C/xampp/htdocs/prog/index.php",
+		"/C/xampp/htdocs/prog/login.php",
+		"/C/xampp/htdocs/prog/config/sessionexit.php",
+		"/C/xampp/htdocs/prog/css/style.css",
+		"/C/xampp/htdocs/prog/config/del.php",
+		"/C/xampp/htdocs/prog/config/config.php",
+		"/C/xampp/htdocs/prog/registros.php",
+		"/C/xampp/htdocs/Familia Honda/cadastrar.php",
+		"/C/xampp/htdocs/Familia Honda/index.php",
+		"/C/xampp/htdocs/Familia Honda/forum/forum 1/add.php",
+		"/C/xampp/htdocs/Familia Honda/forum/forum 1/index.php",
+		"/C/xampp/htdocs/Familia Honda/forum/forum 1/categ.php",
+		"/C/xampp/htdocs/Familia Honda/forum/forum 1/single.php",
+		"/C/xampp/htdocs/Familia Honda/css/styles.css",
+		"/C/xampp/htdocs/Familia Honda/css/index.html",
+		"/C/xampp/htdocs/Familia Honda/css/style.css",
+		"/C/xampp/htdocs/Familia Honda/config/config.php",
+		"/C/xampp/htdocs/Mega Series HD/index.php",
+		"/C/xampp/htdocs/Mega Series HD/css/style.css",
+		"/C/xampp/htdocs/Mega Series HD/config/config.php",
+		"/C/xampp/htdocs/Mega Series HD/painel/cadastrar.php",
+		"/C/wamp/www/vm/css/style.css",
+		"/C/wamp/www/vm/painel/adicionar/index.php",
+		"/C/wamp/www/vm/index.php",
+		"/C/wamp/www/vm/config/config.php",
+		"/C/Users/vmelo/Documents/Corel/WebSite/Sem título-2.htm",
+		"/C/wamp/www/vm/painel/user/config.php",
+		"/C/Users/vmelo/Documents/Corel/WebSite/Sem título-1.htm",
+		"/C/wamp/www/vm/painel/Cadastro/cadastrar.php",
+		"/C/wamp/www/vm/painel/Cadastro/login.php",
+		"/C/wamp/www/vm/config/sessionexit.php",
+		"/C/wamp/www/vm/include/user.php",
+		"/C/wamp/www/vm/imagem/menu/Sem-Título-1.html",
+		"/C/Users/vmelo/Desktop/site/index.html",
+		"/C/Users/vmelo/Desktop/site/css/style.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n",
+			"total20",
+			";\n",
+			"/>\n",
+			";\n",
+			"'];\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1344,
+								1344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "painel/painel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1454,
+								1454
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 14.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1954,
+								1986
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "categ.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1682,
+								1565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "post.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1019,
+								1019
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 98.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "busca.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 238.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config/fun.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1192,
+								1192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "site.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"categ.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
