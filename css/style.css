@@ -1,0 +1,96 @@
+body{
+	margin:0;
+	background-color: #eee;
+}
+header{
+	max-width: 100%;
+	background-color: #333;
+	border-bottom: 4px solid #ddd;
+	height: 70px;
+}
+header img{
+	margin-left: 30%;
+	border-radius: 50%;
+}
+header button{
+	text-transform: uppercase;
+	border:none;
+	background-color: #333;
+	color: #eee;
+}
+header button:hover{
+	transition-duration: 2s;
+	text-decoration: underline;
+}
+div#contentcentral{
+	margin-left: 1%;
+	width: 75%;
+	background-color: #ddd;
+	float: left;
+}
+div#contentcentral h2{
+	margin-left: 1%;
+}
+div#contentcentral hr{
+	border: 1px solid #333;
+}
+div#search{
+	background-color: #ddd;
+	max-width: 20%;
+	float: right;
+	margin-right: 1%;
+}
+div#search li{
+	margin-left: 2%;
+}
+div#search h2{
+	margin-left: 2%;
+}
+div#search hr{
+	border: 1px solid #333;
+}
+fieldset#login{
+	max-width: 30%;
+	text-align: center;
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+}
+div#addpost{
+	background-color: #ddd;
+	max-width: 80%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+div#conteudo{
+	background-color: #ddd;
+	margin-left: 1%;
+	margin-right: 1%;
+	border-radius: 5px;
+}
+div#conteudo h1{text-align: center; text-transform: uppercase; color: #333;}
+div#contexto{
+	max-width: 90%;
+	background-color: #fff;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border-radius: 5px;
+	padding-right: 2px;
+	padding-left: 2px;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+div#contexto img{
+	max-width: 90%;
+
+}
+div#coment{
+	background-color: #ddd;
+	max-width: 100%;
+	margin-left: 1%;
+	margin-right: 1%;
+	border-radius: 5px;
+	padding: 2px;
+}
